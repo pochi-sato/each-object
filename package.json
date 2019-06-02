@@ -1,0 +1,8 @@
+{
+  "name": "each-object",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/pochi-sato/each-object.git",
+  "author": "Takuto Sato <foreignduck.domesticduck@gmail.com>",
+  "license": "MIT"
+}
