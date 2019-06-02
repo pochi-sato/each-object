@@ -6,4 +6,4 @@ const eachObject = (object, callback) =>
     }))
     .reduce((prev, next) => Object.assign(prev, { [next.tmpKey]: next.tmpValue }), {});
 
-export default eachObject;
+exports.eachObject = eachObject;
